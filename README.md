@@ -1,2 +1,2 @@
 # Meu-RPG
-RPG criado do zero
+RPG guiado por mensagens de texto desenvolvido na disciplina Técnicas de programação do ano 2021
